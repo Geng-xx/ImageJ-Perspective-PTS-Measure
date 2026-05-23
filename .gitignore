@@ -1,0 +1,14 @@
+# Java Runtime Environment
+jre/
+
+# Temporary output folders
+_tmp_batch_out/
+_tmp_in/
+_tmp_out/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+
